@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm currently working as Platform Observability Engineer. 
+Platform Observability Engineer. 
 
 
 ## 🌐 Socials:

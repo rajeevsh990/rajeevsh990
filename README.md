@@ -1,5 +1,5 @@
 # 💫 About Me:
-Platform Observability Engineer. 
+I specialize in observability, DevOps, and cloud technologies, with a focus on designing and implementing solutions using Prometheus, ELK, Grafana, and OpenTelemetry on AKS with GitOps and Terraform. My experience spans Infrastructure as Code, CI/CD pipelines, and container orchestration with Kubernetes and OpenShift. I’m proficient in automating processes with Python also skilled in Azure, BASH, and Agile methodologies. My passion lies in optimizing systems and driving innovation in cloud, DevOps and containerized environments.
 
 
 ## 🌐 Socials:
